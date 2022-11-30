@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crypto/static/css/main.64ba348b.css",
+    "main.js": "/Crypto/static/js/main.04caf017.js",
+    "static/media/trade.png": "/Crypto/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/hero-img.png": "/Crypto/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/Crypto/index.html",
+    "main.64ba348b.css.map": "/Crypto/static/css/main.64ba348b.css.map",
+    "main.04caf017.js.map": "/Crypto/static/js/main.04caf017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ba348b.css",
+    "static/js/main.04caf017.js"
+  ]
+}
